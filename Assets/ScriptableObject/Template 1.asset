@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38a8bce70fbbbb548a2994e676f7622d, type: 3}
+  m_Name: Template 1
+  m_EditorClassIdentifier: 
+  truchetTilesSprites:
+  - {fileID: -9160935018683157537, guid: 8f7f4a999abbcc44e9969304c303c087, type: 3}
+  - {fileID: -4611397991127996777, guid: 8f7f4a999abbcc44e9969304c303c087, type: 3}
+  - {fileID: 4546150457177339089, guid: 8f7f4a999abbcc44e9969304c303c087, type: 3}
+  - {fileID: -6028698857817295063, guid: 8f7f4a999abbcc44e9969304c303c087, type: 3}
